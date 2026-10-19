@@ -1,2 +1,2 @@
 # hello-world
-Witaj świecie
+Laboratorium Informatyka II
